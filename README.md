@@ -9,7 +9,7 @@ what is code?
 when most people say code, they're thinking of programming languages, designed by humans
 for the purpose of easily running operations on turing complete machines, usually built with electrical hardware.
 
-um, what?
+*um, what?*
 
 okay, i'll back up. a code is any symbol that represents a concept. code can be lots of things.
 code can be cryptographic messages communicated between a client and a receiver. like morse code.
@@ -25,7 +25,7 @@ article  adjective  noun  verb(past-tense) ...
 
 each word has a function within context of the sentence. you can combine different words to make different meanings.
 
-why are we talking about this?
+*why are we talking about this?*
 
 there are lots of types of codes, and in order to understand high level coding (or programming languages, as we sometimes call them)
 it is helpful to understand the fundamentals of computation machines.
@@ -38,10 +38,11 @@ laptops can be used to maintain electrical state that represents numbers that re
 is essentially the foundation of modern computing.
 
 
-what's actually stored in a computer?
-bits, electrical signals that represent the concept of 1 and 0, which we can use to do mathematical computations.
+*what's actually stored in a computer?*
 
-what does that mean?
+bits, electrical signals that represent the concept of 1 and 0, which together make numbers, which we can use to do mathematical computations.
+
+*what does that mean?*
 
 every thing you see on your screen is just bits, that represent numbers. bits that represent color values
 that make up the pixels on your monitor. number encodings for letters and characters that we read.
@@ -110,11 +111,11 @@ if (this condition is true):     # conditional
   do this thing                  # imperative
 ```
 
-what kinds of things can you do?
+*what kinds of things can you do?*
 
 you have data and you have operations
 
-primitive types
+**primitive types**
 - boolean
 - integers (whole numbers)
 - double/float (rational numbers, with finite precision)
@@ -140,7 +141,7 @@ class Office:
 ```
   
 
-operations
+**operations**
 - math/logical operators
 - conditional execution
   - if
