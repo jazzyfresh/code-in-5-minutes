@@ -108,7 +108,7 @@ there are two kinds of "clauses" in programming
 ```python
 if (this condition is true):     # conditional
   do this thing                  # imperative
-    ```
+```
 
 what kinds of things can you do?
 
@@ -135,7 +135,7 @@ you can also compose complex data types out of primitive types. we call these
 # warning: not literal python syntax!
 # python doesn't have type declaration
 class Office:
-  integer headCount = 150
+  integer headCount = 100
   string[] departments = [ "human resources", "partner services", "finances", "engineering" ]
 ```
   
